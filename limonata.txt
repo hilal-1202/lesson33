@@ -1,2 +1,4 @@
 limon 
 su
+şeker
+nane
